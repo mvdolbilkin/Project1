@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\92552\\source\\repos\\P_1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1_dop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|solutionrelative:p_1_1_dop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1_dop\\warning.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|solutionrelative:p_1_1_dop\\warning.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32618213-3D1F-4C12-9034-EFFA636F4454}|P_1_1\\P_1_1.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32618213-3D1F-4C12-9034-EFFA636F4454}|P_1_1\\P_1_1.csproj|solutionrelative:p_1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0529C34-4562-4441-955D-B88A8100F322}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{C0529C34-4562-4441-955D-B88A8100F322}|C:\\Users\\92552\\Downloads\\warning.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1_dop\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|solutionrelative:p_1_1_dop\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32618213-3D1F-4C12-9034-EFFA636F4454}|P_1_1\\P_1_1.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32618213-3D1F-4C12-9034-EFFA636F4454}|P_1_1\\P_1_1.csproj|solutionrelative:p_1_1\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32618213-3D1F-4C12-9034-EFFA636F4454}|P_1_1\\P_1_1.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32618213-3D1F-4C12-9034-EFFA636F4454}|P_1_1\\P_1_1.csproj|solutionrelative:p_1_1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|c:\\users\\92552\\source\\repos\\p_1_1\\p_1_1_dop\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11A5D691-F080-483F-A0A7-15134D7391EE}|P_1_1_DOP\\P_1_1_DOP.csproj|solutionrelative:p_1_1_dop\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "warning.editorconfig",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\warning.editorconfig",
+              "RelativeDocumentMoniker": "P_1_1_DOP\\warning.editorconfig",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\warning.editorconfig",
+              "RelativeToolTip": "P_1_1_DOP\\warning.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T21:04:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\Program.cs",
+              "RelativeDocumentMoniker": "P_1_1_DOP\\Program.cs",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\Program.cs",
+              "RelativeToolTip": "P_1_1_DOP\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:59:24.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1\\Program.cs",
+              "RelativeDocumentMoniker": "P_1_1\\Program.cs",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1\\Program.cs",
+              "RelativeToolTip": "P_1_1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAASwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:59:13.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "warning.editorconfig",
+              "DocumentMoniker": "C:\\Users\\92552\\Downloads\\warning.editorconfig",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\warning.editorconfig",
+              "ToolTip": "C:\\Users\\92552\\Downloads\\warning.editorconfig",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\warning.editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-03T20:56:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\config.txt",
+              "RelativeDocumentMoniker": "P_1_1_DOP\\config.txt",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\config.txt",
+              "RelativeToolTip": "P_1_1_DOP\\config.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T20:22:09.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\input.txt",
+              "RelativeDocumentMoniker": "P_1_1_DOP\\input.txt",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1_DOP\\input.txt",
+              "RelativeToolTip": "P_1_1_DOP\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T19:21:34.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1\\output.txt",
+              "RelativeDocumentMoniker": "P_1_1\\output.txt",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1\\output.txt",
+              "RelativeToolTip": "P_1_1\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T17:48:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1\\input.txt",
+              "RelativeDocumentMoniker": "P_1_1\\input.txt",
+              "ToolTip": "C:\\Users\\92552\\source\\repos\\P_1_1\\P_1_1\\input.txt",
+              "RelativeToolTip": "P_1_1\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T17:45:48.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

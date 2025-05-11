@@ -1,0 +1,14 @@
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\bin\Debug\net8.0\P_1_1_DOP.exe
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\bin\Debug\net8.0\P_1_1_DOP.deps.json
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\bin\Debug\net8.0\P_1_1_DOP.runtimeconfig.json
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\bin\Debug\net8.0\P_1_1_DOP.dll
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\bin\Debug\net8.0\P_1_1_DOP.pdb
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.AssemblyInfoInputs.cache
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.AssemblyInfo.cs
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.csproj.CoreCompileInputs.cache
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.dll
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\refint\P_1_1_DOP.dll
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.pdb
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\P_1_1_DOP.genruntimeconfig.cache
+C:\Users\92552\source\repos\P_1_1\P_1_1_DOP\obj\Debug\net8.0\ref\P_1_1_DOP.dll
